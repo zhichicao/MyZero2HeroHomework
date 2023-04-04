@@ -1,0 +1,77 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/zhaochenchen/Documents/Knowledge/学习/homework/MyZero2HeroHomework/week4/contracts/ChangeNum.sol": {
+      "lastModificationDate": 1680603608560,
+      "contentHash": "1325e291cbbbcbcc95eccb045274b7c7",
+      "sourceName": "contracts/ChangeNum.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata",
+                "storageLayout"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "ChangeNum"
+      ]
+    },
+    "/Users/zhaochenchen/Documents/Knowledge/学习/homework/MyZero2HeroHomework/week4/contracts/ChangeNumV2.sol": {
+      "lastModificationDate": 1680605970480,
+      "contentHash": "8c948033e8df5f8b5bf46c3a712c8035",
+      "sourceName": "contracts/ChangeNumV2.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata",
+                "storageLayout"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "ChangeNumV2"
+      ]
+    }
+  }
+}

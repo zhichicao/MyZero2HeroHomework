@@ -1,0 +1,169 @@
+{
+  "version": "3.4",
+  "log": [
+    {
+      "contracts/ChangeNumV2.sol:ChangeNumV2": {
+        "src": "contracts/ChangeNumV2.sol:4",
+        "version": {
+          "withMetadata": "f651c36b8f4f7702730b1c4cec13b90b59034919fe393e96dd211a41c9e652b6",
+          "withoutMetadata": "d93d7310f59f1c6bc889031714e1672a04e090fea45495ae386c14b77ee011b1",
+          "linkedWithoutMetadata": "d93d7310f59f1c6bc889031714e1672a04e090fea45495ae386c14b77ee011b1"
+        },
+        "inherit": [],
+        "libraries": [],
+        "methods": [
+          "init(uint256)",
+          "retrieve()",
+          "setValue(uint256)",
+          "getConstNum()",
+          "increment()"
+        ],
+        "linkReferences": [],
+        "errors": [],
+        "layout": {
+          "storage": [
+            {
+              "label": "_value",
+              "offset": 0,
+              "slot": "0",
+              "type": "t_uint256",
+              "contract": "ChangeNumV2",
+              "src": "contracts/ChangeNumV2.sol:8"
+            }
+          ],
+          "types": {
+            "t_uint256": {
+              "label": "uint256",
+              "numberOfBytes": "32"
+            }
+          },
+          "layoutVersion": "1.2",
+          "flat": true
+        },
+        "solcVersion": "0.8.0"
+      }
+    },
+    {
+      "contracts/ChangeNum.sol:ChangeNum": {
+        "src": "contracts/ChangeNum.sol:4",
+        "version": {
+          "withMetadata": "caa02412e0e5b4fd5f04fd1fe9caa952997fbb8d708016887dde2ce281a12706",
+          "withoutMetadata": "d4ff782aee67637f99f64b924c240c0bf0c3f308228c31737d4a0f7a51602a22",
+          "linkedWithoutMetadata": "d4ff782aee67637f99f64b924c240c0bf0c3f308228c31737d4a0f7a51602a22"
+        },
+        "inherit": [],
+        "libraries": [],
+        "methods": [
+          "init(uint256)",
+          "retrieve()",
+          "setValue(uint256)",
+          "getConstNum()"
+        ],
+        "linkReferences": [],
+        "errors": [],
+        "layout": {
+          "storage": [
+            {
+              "label": "_value",
+              "offset": 0,
+              "slot": "0",
+              "type": "t_uint256",
+              "contract": "ChangeNum",
+              "src": "contracts/ChangeNum.sol:7"
+            }
+          ],
+          "types": {
+            "t_uint256": {
+              "label": "uint256",
+              "numberOfBytes": "32"
+            }
+          },
+          "layoutVersion": "1.2",
+          "flat": true
+        },
+        "solcVersion": "0.8.0"
+      }
+    },
+    {
+      "contracts/ChangeNum.sol:ChangeNum": {
+        "src": "contracts/ChangeNum.sol:4",
+        "version": {
+          "withMetadata": "caa02412e0e5b4fd5f04fd1fe9caa952997fbb8d708016887dde2ce281a12706",
+          "withoutMetadata": "d4ff782aee67637f99f64b924c240c0bf0c3f308228c31737d4a0f7a51602a22",
+          "linkedWithoutMetadata": "d4ff782aee67637f99f64b924c240c0bf0c3f308228c31737d4a0f7a51602a22"
+        },
+        "inherit": [],
+        "libraries": [],
+        "methods": [
+          "init(uint256)",
+          "retrieve()",
+          "setValue(uint256)",
+          "getConstNum()"
+        ],
+        "linkReferences": [],
+        "errors": [],
+        "layout": {
+          "storage": [
+            {
+              "label": "_value",
+              "offset": 0,
+              "slot": "0",
+              "type": "t_uint256",
+              "contract": "ChangeNum",
+              "src": "contracts/ChangeNum.sol:7"
+            }
+          ],
+          "types": {
+            "t_uint256": {
+              "label": "uint256",
+              "numberOfBytes": "32"
+            }
+          },
+          "layoutVersion": "1.2",
+          "flat": true
+        },
+        "solcVersion": "0.8.0"
+      },
+      "contracts/ChangeNumV2.sol:ChangeNumV2": {
+        "src": "contracts/ChangeNumV2.sol:4",
+        "version": {
+          "withMetadata": "f651c36b8f4f7702730b1c4cec13b90b59034919fe393e96dd211a41c9e652b6",
+          "withoutMetadata": "d93d7310f59f1c6bc889031714e1672a04e090fea45495ae386c14b77ee011b1",
+          "linkedWithoutMetadata": "d93d7310f59f1c6bc889031714e1672a04e090fea45495ae386c14b77ee011b1"
+        },
+        "inherit": [],
+        "libraries": [],
+        "methods": [
+          "init(uint256)",
+          "retrieve()",
+          "setValue(uint256)",
+          "getConstNum()",
+          "increment()"
+        ],
+        "linkReferences": [],
+        "errors": [],
+        "layout": {
+          "storage": [
+            {
+              "label": "_value",
+              "offset": 0,
+              "slot": "0",
+              "type": "t_uint256",
+              "contract": "ChangeNumV2",
+              "src": "contracts/ChangeNumV2.sol:8"
+            }
+          ],
+          "types": {
+            "t_uint256": {
+              "label": "uint256",
+              "numberOfBytes": "32"
+            }
+          },
+          "layoutVersion": "1.2",
+          "flat": true
+        },
+        "solcVersion": "0.8.0"
+      }
+    }
+  ]
+}
